@@ -14,10 +14,23 @@
 
 Web Components that extend or add to an existing semantic element.
 
-- [`<details-dialog>`](https://github.com/github/details-dialog-element)
-- [`<details-menu>`](https://github.com/github/details-menu-element)
-- [`<file-drop>`](https://github.com/GoogleChromeLabs/file-drop)
+Tag | By | Description | Image
+--- | -- | ----------- | -----
+<details&#x2011;dialog><br>[repo][details-dialog repo] \| [demos][details-dialog demo] | GitHub | A modal dialog that's opened with a `<details>` button. | ![details-dialog image][details-dialog image]
+<details&#x2011;menu><br>[repo][details-menu repo] \| [demos][details-menu demo] | GitHub | A menu that's opened with a `<details>` button. Fully accessible and styleable. | ![details-menu image][details-menu image]
+<file&#x2011;drop><br>[repo][file-drop repo] \| [demos][file-drop demo] | Google | The file drop custom element is a simple Custom Element that accepts `File` objects being dropped on it and fires a dedicated event `onfiledrop` when a successful drop occurs. | ![file-drop image][file-drop image]
 
+[details-dialog repo]:  https://github.com/github/details-dialog-element
+[details-dialog demo]:  https://github.github.io/details-dialog-element/example/index.html
+[details-dialog image]: images/details-dialog.png
+
+[details-menu repo]:  https://github.com/github/details-menu-element
+[details-menu demo]:  https://github.github.io/details-menu-element/examples/
+[details-menu image]: images/details-menu.png
+
+[file-drop repo]:  https://github.com/GoogleChromeLabs/file-drop
+[file-drop demo]:  https://file-drop-element.glitch.me/
+[file-drop image]: images/file-drop.png
 
 ### `<time>` Elements
 
