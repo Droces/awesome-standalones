@@ -1,6 +1,12 @@
-# Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Standalone Web Components 🔌 🌐 ⚡️
 
-> A curated list of awesome framework-agnostic standalone web components
+A curated list of awesome framework-agnostic standalone web components.
+
+These are custom HTML elements like `<tab-container>` that fill gaps in the 
+standard set of HTML elements. Most of these are powered by a small amount of
+JavaScript to provide interactivity, and some scoped CSS styling.
+These components can be used in any web project, regardless of the framework or
+library being used, or even in vanilla JavaScript projects.
 
 
 ## Contents
@@ -146,13 +152,15 @@ Tag | By | Description | Image
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Please read the [contribution
+guidelines](contributing.md) first.
 
-Thanks @simevidas for prompting the idea.
+Thanks to [davatron5000](https://github.com/davatron5000) for the original list,
+and to [simevidas](https://github.com/simevidas) for prompting the idea.
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Dave Rupert has waived all copyright and
+To the extent possible under law, the developers have waived all copyright and
 related or neighboring rights to this work.
