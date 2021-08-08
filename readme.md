@@ -124,6 +124,26 @@ Tag | By | Description | Image
 Tag | By | Description | Image
 --- | -- | ----------- | -----
 
+## Ideas: Web components to be found
+
+### Display
+
+* Currency converter
+* Weather
+* Messages (error, warning, success)
+* Accordian (using `<details>`)
+* Carousel (slideshow)
+* Tour popups
+
+### Inputs
+
+* Autocomplete input
+* Country select
+* Time zone select
+* Language select
+* Colour select
+* Input map (for coordinates, polygon, etc.)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
